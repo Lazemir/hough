@@ -1,4 +1,4 @@
-#include "/Users/Lazemir/Desktop/hough_root/hough/main.cpp"
-#include "/Users/Lazemir/Desktop/hough_root/hough/root_graph.cpp"
-#include "/Users/Lazemir/Desktop/hough_root/hough/hough.cpp"
+#include "hough/main.cpp"
+#include "hough/root_graph.cpp"
+#include "hough/hough.cpp"
 
